@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenStreetMap Feature Editor
 
 A production-ready web application for drawing and managing geometrical features on OpenStreetMap with intelligent spatial constraint handling.
@@ -268,3 +269,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Support
 
 For issues and questions, please open an issue on GitHub.
+=======
+# open-street-map
+>>>>>>> e30a80fd0ef7e7777c0199628548b5733a683147
