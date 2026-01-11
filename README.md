@@ -14,7 +14,7 @@ A production-ready web application for drawing and managing geometrical features
 
 ## Live Demo
 
-[View Live Application](#) *(Add your deployed URL here)*
+[View Live Application](#) https://openmapp.netlify.app/
 
 ## Tech Stack
 
