@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "polygon-1704901234567",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-0.1278, 51.5074],
+            [-0.1278, 51.5174],
+            [-0.1078, 51.5174],
+            [-0.1078, 51.5074],
+            [-0.1278, 51.5074]
+          ]
+        ]
+      },
+      "properties": {
+        "type": "rectangle",
+        "name": "Rectangle 1",
+        "createdAt": "2024-01-10T12:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "circle-1704901234568",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0, 0.0001],
+            [0.0001, 0],
+            [0, -0.0001],
+            [-0.0001, 0],
+            [0, 0.0001]
+          ]
+        ]
+      },
+      "properties": {
+        "type": "circle",
+        "name": "Circle 1",
+        "createdAt": "2024-01-10T12:01:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "linestring-1704901234569",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.13, 51.51],
+          [-0.12, 51.515],
+          [-0.11, 51.51],
+          [-0.10, 51.515]
+        ]
+      },
+      "properties": {
+        "type": "linestring",
+        "name": "LineString 1",
+        "createdAt": "2024-01-10T12:02:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "polygon-1704901234570",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.05, 51.5],
+            [0.06, 51.5],
+            [0.055, 51.51],
+            [0.05, 51.5]
+          ]
+        ]
+      },
+      "properties": {
+        "type": "polygon",
+        "name": "Polygon 1",
+        "createdAt": "2024-01-10T12:03:00.000Z"
+      }
+    }
+  ]
+}
